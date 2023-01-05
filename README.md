@@ -1,3 +1,4 @@
 # 05.01.23Raum6
-Charlie ändert die lokale main. 
+
+Der Charlie macht eine Änderung. Auf b1 (branch)
 
